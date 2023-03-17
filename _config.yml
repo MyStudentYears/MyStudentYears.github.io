@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: My Student Years Documentation
+description: A website that hosts all the documentation for the MSY Moodle website
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://mystudentyears.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
