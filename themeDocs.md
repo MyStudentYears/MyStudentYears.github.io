@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Theme Plugin Documentation
+title: Theme Plugin 
 permalink: /theme_plugin/
 ---
 # MSY Theme #

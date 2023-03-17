@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Populator Plugin Documentation
+title: Populator Plugin 
 permalink: /populator_plugin/
 ---
 

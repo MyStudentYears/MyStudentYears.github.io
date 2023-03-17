@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Registration Plugin Documentation
+title: Registration Plugin 
 permalink: /registration_plugin/
 ---
 

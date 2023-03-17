@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Admin Plugin Documentation
+title: Admin Plugin 
 permalink: /admin_plugin/
 ---
 

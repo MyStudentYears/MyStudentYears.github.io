@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Visulisation Documentation
+title: Data Visulisation
 permalink: /data_vis_plugin/
 ---
 

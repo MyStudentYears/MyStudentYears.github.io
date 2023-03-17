@@ -1,6 +1,6 @@
 ---
-laout: page
-title: Carousel Plugin Documentation
+layout: page
+title: Carousel Plugin
 permalink: /carousel_plugin/
 ---
 

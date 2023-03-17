@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources Plugin Documentation
+title: Resources Plugin
 permalink: /resources_plugin/
 ---
 

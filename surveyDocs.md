@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Survey Plugin Documentation
+title: Survey Plugin
 permalink: /survey_plugin/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Chooser Documnetation
+title: Course Chooser
 permalink: /course_chooser_plugin/
 ---
 
